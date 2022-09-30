@@ -11,8 +11,11 @@ I started my development journey from PHP, fell in love with Android development
 - 📫 How to reach me [zainkhas93@gmail.com](mailto:zainkhas93@gmail.com)
 
 <br/>
+<br/>
 
 **Stats**
+<br/>
+
  ![](https://raw.githubusercontent.com/zainkhas/github-stats/master/generated/overview.svg#gh-light-mode-only)  ![](https://raw.githubusercontent.com/zainkhas/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=zainkhas&row=2&column=3&no-bg=true&theme=chalk&margin-w=15&margin-h=15&no-frame=true" alt="zainkhas" /></p>
