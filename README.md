@@ -8,7 +8,7 @@ I started my development journey from PHP, fell in love with Android development
 
   
 - 👨‍💻 All of my projects are available at [zainkhas.me](https://zainkhas.me)   
-- 📫 How to reach me [zainkhas93@gmail.com](mailto:zainkhas93@gmail.com)
+- 📫 Reach me at [zainkhas93@gmail.com](mailto:zainkhas93@gmail.com)
 
 <br/>
 <br/>
