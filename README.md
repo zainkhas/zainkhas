@@ -1,8 +1,8 @@
 
 ### 👋 Hey, I’m **Zain**
-I am a passionate Software Engineer, experienced in **mobile app development**. I like working on and exploring JavaScript technologies and frameworks.
+I am a passionate Software Engineer, experienced in **mobile apps and frontend development**. I like working on and exploring JavaScript technologies and frameworks.
 
-I started my development journey from PHP, fell in love with Android development, and now I’m working on React Native, React.js, Node.js and Express.
+I started my development journey from PHP, fell in love with Android development, and now I’m working on React Native, React.js, Next.js, Node.js and Express.
 
 
 
