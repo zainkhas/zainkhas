@@ -16,4 +16,4 @@ I started my development journey from PHP, fell in love with Android development
 **Stats**
 <br/>
 
- ![](https://raw.githubusercontent.com/zainkhas/github-stats/master/generated/overview.svg#gh-light-mode-only)  ![](https://raw.githubusercontent.com/zainkhas/github-stats/master/generated/languages.svg#gh-light-mode-only)
+ ![](https://raw.githubusercontent.com/zainkhas/github-stats/master/generated/overview.svg)  ![](https://raw.githubusercontent.com/zainkhas/github-stats/master/generated/languages.svg)
