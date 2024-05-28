@@ -10,10 +10,5 @@ I started my development journey from PHP, fell in love with Android development
 - 👨‍💻 All of my projects are available at [zainkhas.me](https://zainkhas.me)   
 - 📫 Reach me at [zainkhas93@gmail.com](mailto:zainkhas93@gmail.com)
 
-<br/>
-<br/>
 
-**Stats**
-<br/>
-
- ![](https://raw.githubusercontent.com/zainkhas/github-stats/master/generated/overview.svg)  ![](https://raw.githubusercontent.com/zainkhas/github-stats/master/generated/languages.svg)
+![zainkhas github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=zainkhas)
